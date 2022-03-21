@@ -1,0 +1,22 @@
+body{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Bungee', cursive;
+}
+h1{
+    font-size: 50px;
+}
+.name{
+    color: blueviolet;
+}
+.ff{
+    color: blueviolet;
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half img{
+    width: 50%;
+}
